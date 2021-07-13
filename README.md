@@ -5,6 +5,10 @@
 - 💞️ I’m looking to collaborate on CTF
 
 
+<script src="https://tryhackme.com/badge/372931"></script>
+
+
+
 
 <!---
 VOiD-Ayush/VOiD-Ayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
