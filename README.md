@@ -1,7 +1,7 @@
 # Hey , I'm Ayush aka VOiD
 
 - 👀 I’m interested in CyberSec
-- 🌱 I’m currently learning Pythom
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on CTF
 
 
